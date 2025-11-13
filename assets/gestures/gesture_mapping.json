@@ -1,0 +1,27 @@
+{
+  "index_to_name": {
+    "0": "thumbs_up",
+    "1": "thumbs_down",
+    "2": "open_palm",
+    "3": "closed_fist",
+    "4": "pointing",
+    "5": "ok_sign",
+    "6": "peace",
+    "7": "rock",
+    "8": "wave",
+    "9": "stop"
+  },
+  "gesture_to_text": {
+    "thumbs_up": "Yes",
+    "thumbs_down": "No",
+    "open_palm": "Hello",
+    "closed_fist": "Stop",
+    "pointing": "Look",
+    "ok_sign": "Okay",
+    "peace": "Peace",
+    "rock": "Rock",
+    "wave": "Hello",
+    "stop": "Stop"
+  }
+}
+
